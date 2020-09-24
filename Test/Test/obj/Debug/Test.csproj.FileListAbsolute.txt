@@ -1,0 +1,6 @@
+D:\курси\Test\Test\bin\Debug\Test.exe.config
+D:\курси\Test\Test\bin\Debug\Test.exe
+D:\курси\Test\Test\bin\Debug\Test.pdb
+D:\курси\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\курси\Test\Test\obj\Debug\Test.exe
+D:\курси\Test\Test\obj\Debug\Test.pdb
